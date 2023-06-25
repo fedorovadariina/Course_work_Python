@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.5//EN
+N:;Darina;;;
+FN:Darina
+EMAIL;type=INTERNET;type=HOME;type=pref:example@mail.com
+TEL;type=CELL;type=VOICE;type=pref:+77002476494
+END:VCARD
